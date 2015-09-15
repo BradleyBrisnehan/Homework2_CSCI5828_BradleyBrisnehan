@@ -6,5 +6,6 @@ Due September 22, 2015
 
 ## Messages
 Message for Commit 0
+Message for Commit 3
 
 ## Git Commands
