@@ -8,5 +8,6 @@ Due September 22, 2015
 Message for Commit 0
 Message for Commit 1
 Message for Commit 2
+Message for Commit 10
 
 ## Git Commands
