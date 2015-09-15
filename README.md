@@ -9,5 +9,6 @@ Message for Commit 0
 Message for Commit 3
 Message for Commit 4
 Message for Commit 7
+Message for Commit 8
 
 ## Git Commands
