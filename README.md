@@ -11,5 +11,6 @@ Message for Commit 2
 Message for Commit 3
 Message for Commit 4
 Message for Commit 5
+Message for Commit 6
 
 ## Git Commands
